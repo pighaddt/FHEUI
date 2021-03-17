@@ -1,0 +1,4 @@
+source d:\FHEUI\ngspice\0118.sp
+
+V(5) V(11)
+.end

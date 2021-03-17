@@ -1,0 +1,7 @@
+POC1
+拉伸線路
+2021-01-13
+ID_003
+Values Lo=50mm, Wo=3mm, to=150um, Wtrace=300um
+Strain(ε) 10 %, ΔL=Lo x ε%
+
